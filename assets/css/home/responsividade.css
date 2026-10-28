@@ -1,13 +1,16 @@
 @media(max-width:576px){
-    .titulo{
-        opacity:0;
+    
+.titulo{
+opacity:0;
     }
+
 nav{
-    display: none;
+display: none;
 }
+
 main{
-    flex-direction: column;
-    align-items: center;
-    align-content: center;
+flex-direction: column;
+align-items: center;
+align-content: center;
 }
 }

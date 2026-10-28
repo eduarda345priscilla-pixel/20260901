@@ -1,13 +1,10 @@
 header {
-    /* border: 0.2rem solid red; */
-    height: 4rem;
+    height: 3rem;
     display: flex;
-    /* justify-content: center; alinhar horizontalmente */
     align-items: center;
     align-content: center;
     padding: .5rem;
-    background-color: #252323;
-    color: #eee
+
 }
 
 .logo {
@@ -24,9 +21,9 @@ header {
     align-items: center;
     align-content: center;
     margin-right: .7rem;
+    box-sizing: content-box;
 }
 
 .titulo {
-    /* border: .2rem solid yellow; */
     flex: 1;
 }

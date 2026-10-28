@@ -48,10 +48,10 @@ header {
     color: #ccc;
 }
 
-.menu-hamburguer:houver i{
-    color: #ff0000;
+.menu-hamburguer:houver #icone {
+    color: #1bf807;
 }
 
-.menu-hamburguer i:houver{
-    color: rgb(0, 153, 255);
+.menu-hamburguer #icone:houver {
+    color: rgb(18, 58, 236);
 }
